@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ash530888
 - 👀 Interested in programming and problem solving.
-- 🌱 Undergraduate Computer Science student.
-- 💞️ Looking to collaborate on any project that I could be useful in (Python/Java/Cyber Security).
+- 🏫 Computer Science MSci Graduate.
+- 💞️ Looking to collaborate on any project that I could be useful in (.NET/React/Angular/Python/Java/Cyber Security).
 - 📫 How to reach me aishah.s.qureshi@gmail.com
 
 <!---
